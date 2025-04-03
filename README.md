@@ -7,7 +7,7 @@
 - You can explore all of my projects, which are openly accessible, on my GitHub profile at [github.com/omgSRT](https://github.com/omgSRT)
 - My hobbies are 🖥️ **programming**, 🎞️ **watching movies**, 🕹️ **playing video games**, ♟️ **playing board games**
 
-## Programming Languages And Tools I Have Used
+<!-- ## Programming Languages And Tools I Have Used
 ### Programming Language
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -17,6 +17,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
 </p>
 
 ### Technology
@@ -40,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-</p>
+</p> -->
 
 
 ## My GitHub Stats
