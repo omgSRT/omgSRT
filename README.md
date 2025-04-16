@@ -26,18 +26,19 @@
 ### Technology
 
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="react" width="40" height="40"/>
 </p>
 
 ### Database
 
 <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
@@ -55,8 +56,8 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgsrt&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages Stat" />
-  <img src="https://github-readme-stats.vercel.app/api?username=omgsrt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgSRT&theme=radical&stroke=FF007A&ring=FF007A&fire=FF007A&currStreakNum=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&sideLabels=A9FEF7&dates=FFFFFF" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=omgsrt&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgSRT&theme=radical&stroke=FF007A&ring=FF007A&fire=FF007A&currStreakNum=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&sideLabels=A9FEF7&dates=FFFFFF" alt="GitHub Streak Stats" /> -->
 </p>
 
 ## Establish A Connection With Me
