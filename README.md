@@ -2,7 +2,7 @@
 
 ## About Me
 
-- My full name is Nguyen Duc Thang
+- My name is Thang
 - I studied at [FPT University - HCM City Campus](https://daihoc.fpt.edu.vn/truong-thanh-vien/campus-tp-ho-chi-minh/)
 - My field of study is **Software Engineering**
 - You can explore all of my projects, which are openly accessible, on my GitHub profile at [github.com/omgSRT](https://github.com/omgSRT)
@@ -23,7 +23,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
 </p>
@@ -39,16 +38,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" alt="rails" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
     <img src="https://avatars.githubusercontent.com/u/2624634?v=4" alt="echo-golang" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40">
 </p>
 
 ### Database
 
 <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
@@ -59,19 +56,23 @@
 ### Other
 
 <p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
 </p> -->
 
 ## My GitHub Stats
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgSRT&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages Stat" />
-    <img src="https://github-readme-stats.vercel.app/api?username=omgSRT&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgSRT&theme=radical&stroke=FF007A&ring=FF007A&fire=FF007A&currStreakNum=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&sideLabels=A9FEF7&dates=FFFFFF" alt="GitHub Streak Stats" /> -->
+    <img src="https://github-readme-stats.vercel.app/api?username=omgSRT&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgSRT&theme=radical&stroke=FF007A&ring=FF007A&fire=FF007A&currStreakNum=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&sideLabels=A9FEF7&dates=FFFFFF" alt="GitHub Streak Stats" />
 </p>
 
 ## Establish A Connection With Me
