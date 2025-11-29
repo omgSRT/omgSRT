@@ -8,7 +8,7 @@
 - You can explore all of my projects, which are openly accessible, on my GitHub profile at [github.com/omgSRT](https://github.com/omgSRT)
 - My hobbies are 🖥️ **programming**, 🎞️ **watching movies**, 🕹️ **playing video games**, ♟️ **playing board games**
 
-<!-- ## Programming Languages And Tools I Have Used
+## Programming Languages And Tools I Have Used
 
 ### Programming Language
 
@@ -65,7 +65,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
-</p> -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
+</p>
 
 ## My GitHub Stats
 
