@@ -8,7 +8,7 @@
 - You can explore all of my projects, which are openly accessible, on my GitHub profile at [github.com/omgSRT](https://github.com/omgSRT)
 - My hobbies are 🖥️ **programming**, 🎞️ **watching movies**, 🕹️ **playing video games**, ♟️ **playing board games**
 
-## Programming Languages And Tools I Have Used
+<!-- ## Programming Languages And Tools I Have Used
 
 ### Programming Language
 
@@ -76,7 +76,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgSRT&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Most Used Languages Stat" />
     <img src="https://github-readme-stats.vercel.app/api?username=omgSRT&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgSRT&theme=radical&stroke=FF007A&ring=FF007A&fire=FF007A&currStreakNum=A9FEF7&currStreakLabel=A9FEF7&sideNums=A9FEF7&sideLabels=A9FEF7&dates=FFFFFF" alt="GitHub Streak Stats" />
-</p>
+</p> -->
 
 ## Establish A Connection With Me
 
